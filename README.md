@@ -11,3 +11,5 @@
 2. 安装插件，Open Burp Suite -> Extender -> Extensions -> Add -> Mark-Different-Browser.jar
 
    
+
+![](https://github.com/xiaoxiaoleo/Mark-Different-Browsers/raw/main/images/burphistory.png)
