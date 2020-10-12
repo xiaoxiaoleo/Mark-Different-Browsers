@@ -10,6 +10,10 @@
 
 2. 安装插件，Open Burp Suite -> Extender -> Extensions -> Add -> [Mark-Different-Browser.jar](https://github.com/xiaoxiaoleo/Mark-Different-Browsers/files/5363226/MarkDifferentBrowsers.zip)
 
+3. 启用/关闭插件：  Proxy -> HTTP history -> 右键 - > Mark Different Browser (enable/disable)
+
+   
+
    
 
 ![](https://github.com/xiaoxiaoleo/Mark-Different-Browsers/raw/main/images/burphistory.png)
